@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('Deploy') {
             steps {
                 checkout([$class: 'GitSCM', branches: [[name: '*/master']], extensions: [], userRemoteConfigs: [[credentialsId: 'd8e3ca41-e256-4499-8185-bb50a759820c', url: 'https://github.com/KamalDevHariharan/devops-hands-on.git']]])
             }
