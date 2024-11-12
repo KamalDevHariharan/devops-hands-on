@@ -1,0 +1,19 @@
+2024-11-12 17:38:07,354 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-12 17:38:44,180 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capstoneProject:devopsSample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\pom.xml.
+2024-11-12 17:38:44,180 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capstoneProject:devopsSample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\pom.xml.
+2024-11-12 17:38:45,407 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-12 17:38:45,408 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\src\main\resources
+2024-11-12 17:38:45,412 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-12 17:38:45,413 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\src\test\resources
+2024-11-12 17:38:46,826 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2024-11-12 17:38:46,927 [Worker-11: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2024-11-12 17:38:46,931 [Worker-11: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2024-11-12 17:38:47,170 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capstoneProject:devopsSample:0.0.1-SNAPSHOT @ C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\pom.xml.
+2024-11-12 17:38:47,172 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-12 17:38:47,173 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\src\main\resources
+2024-11-12 17:38:47,175 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-12 17:38:47,175 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\src\test\resources
+2024-11-12 17:38:48,259 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-12 17:38:48,260 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\src\main\resources
+2024-11-12 17:38:48,261 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-11-12 17:38:48,261 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Administrator\Desktop\capstoneProject\devops-hands-on\devopsSample\src\test\resources
